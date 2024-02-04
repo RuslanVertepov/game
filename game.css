@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('fon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #snakeCanvas {
+    border: 2px solid #3498db;
+    background-color: rgba(236, 240, 241, 0.8); 
+    margin: 20px auto;
+    transition: background-color 0.3s;
+  }
+  
+  .welcome-block {
+    background-color: #fff;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
